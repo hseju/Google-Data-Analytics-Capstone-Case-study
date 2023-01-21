@@ -7,3 +7,11 @@ This case study is a part of the last course on creating a Capstone project in G
 #### Background
 
 Bellabeat is a high tech manufacturer of health-related products for women and is currently a small company but aspire to increase its user base and become a larger player in smart device market. Bellabeat believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. The task here is to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices.
+
+According to Google, different phases of data analytics project are:
+- Ask
+- Prepare
+- Process
+- Analyze
+- Share 
+- Act
