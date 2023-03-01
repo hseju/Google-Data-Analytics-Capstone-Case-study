@@ -1,0 +1,28 @@
+﻿{"name":"Poppins",
+
+"visualStyles":{
+			"*":{
+				"*":{
+					"*":[
+						{
+							"fontSize":12,"fontFamily":"Poppins","color":{"light":{}}
+						}
+					    ]
+				    }
+			    },
+
+			"Title":{
+				"*":{
+					"*":[
+						{
+							"fontSize":12,"fontFamily":"Roboto","color":{"light":{}}
+						}
+					    ]
+				    }
+			    }
+
+
+}
+
+}
+
